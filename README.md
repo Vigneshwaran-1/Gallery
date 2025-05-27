@@ -75,6 +75,14 @@ Publish the website in the given URL.
 ~~~
 # OUTPUT:
 ![Screenshot 2025-05-10 122643](https://github.com/user-attachments/assets/555eb1fd-926f-4d3c-b9e3-23f6845fadb5)
+![1](https://github.com/user-attachments/assets/3b8d49b4-8a81-422b-ae7a-345398410bf1)
+![2](https://github.com/user-attachments/assets/01c3007e-eb61-4192-aad8-cc989e54436e)
+![3](https://github.com/user-attachments/assets/c64dafe0-3768-465f-8584-b2a9379838ad)
+![4](https://github.com/user-attachments/assets/60772968-bed8-487b-a10f-f986650a55c3)
+
+
+
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
